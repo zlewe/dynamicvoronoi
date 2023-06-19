@@ -1,4 +1,4 @@
-#include "dynamicvoronoi.h"
+#include "dynamicvoronoi/dynamicvoronoi.h"
 
 #include <math.h>
 #include <iostream>
